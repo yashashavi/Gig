@@ -66,11 +66,11 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="height" value="2276" />
-                            <entry key="outputName" value="ic_splash_screen" />
+                            <entry key="height" value="512" />
+                            <entry key="outputName" value="ic_app_icon_reduced" />
                             <entry key="overrideSize" value="true" />
-                            <entry key="sourceFile" value="C:\Users\Yashashavi\Documents\App\Photoshop\splash screen.psd" />
-                            <entry key="width" value="2920" />
+                            <entry key="sourceFile" value="C:\Users\Yashashavi\Documents\App\Photoshop\appicon.psd" />
+                            <entry key="width" value="512" />
                           </map>
                         </option>
                       </PersistentState>

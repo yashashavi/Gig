@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gig</string>
+    <string name="splash_screen_bottom_text">F I N D  \u0020\u0020P E O P L E \u0020\u0020 F O R  \u0020\u0020S H A R I N G</string>
+    <string name="app_name_space">G I G</string>
 </resources>
