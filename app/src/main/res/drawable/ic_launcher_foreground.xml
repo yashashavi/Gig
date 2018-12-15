@@ -14,12 +14,20 @@
             android:pathData="m390 122v267.9h-267.9v-267.9zm-300.1 -122c-49.6 0 -89.8 40.2 -89.8 89.8v332.3c0 49.6 40.2 89.8 89.8 89.8h332.3c49.6 0 89.8 -40.2 89.8 -89.8v-332.3c0 -49.6 -40.2 -89.8 -89.8 -89.8z"
             android:fillColor="#000" />
         <path
+            android:fillColor="#000"
             android:name="Rectangle 3"
-            android:pathData="m216 83.3 172.7 172.7 -172.7 172.7 -172.7 -172.7 172.7 -172.7zm0 -28.3 -201 201 201 201 201 -201 -201 -201z"
-            android:fillColor="#fff" />
+            android:pathData="m216 55 201 201 -201 201 -201 -201 201 -201z" />
         <path
             android:name="Rectangle 3"
-            android:pathData="m293 83.3 172.7 172.7 -172.7 172.7 -172.7 -172.7 172.7 -172.7zm0 -28.3 -201 201 201 201 201 -201 -201 -201z"
+            android:pathData="m216 69.1 186.9 186.9 -186.9 186.9 -186.9 -186.9 186.9 -186.9zm0 -14.1 -201 201 201 201 201 -201 -201 -201z"
+            android:fillColor="#fff" />
+        <path
+            android:fillColor="#000"
+            android:name="Rectangle 3"
+            android:pathData="m293 55 201 201 -201 201 -201 -201 201 -201z" />
+        <path
+            android:name="Rectangle 3"
+            android:pathData="m293 69.1 186.9 186.9 -186.9 186.9 -186.9 -186.9 186.9 -186.9zm0 -14.1 -201 201 201 201 201 -201 -201 -201z"
             android:fillColor="#fff" />
     </group>
 </vector>

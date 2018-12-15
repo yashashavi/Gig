@@ -23,6 +23,7 @@
         app:menu="@menu/activity_main_page_drawer"
         android:backgroundTint="@android:color/black"
         app:itemTextColor="@android:color/white"
+        app:itemIconTint="@android:color/white"
         app:itemTextAppearance="@style/Main.Page.Nav.Items"
          />
 
