@@ -6,16 +6,20 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="android:fontFamily">@font/montserrat</item>
     </style>
 
     <style name="Theme.Transparent" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:statusBarColor">@color/colorPrimary</item>
-     </style>
+    </style>
 
     <style name="Theme.Transparent.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.Transparent.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
-    <style name="Main.Page.Nav.Items" parent="ThemeOverlay.AppCompat.Light" >
+
+    <style name="Main.Page.Nav.Items" parent="ThemeOverlay.AppCompat.Light">
         <item name="android:textSize">16sp</item>
         <item name="android:fontFamily">@font/montserrat</item>
         <item name="android:statusBarColor">@color/colorPrimary</item>
