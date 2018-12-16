@@ -34,4 +34,10 @@
         <item name="colorControlActivated">@color/colorAccent</item>
         <item name="colorControlHighlight">@color/colorAccent</item>
     </style>
+
+
+    <style name="Theme.Button.Dark" parent="Widget.AppCompat.Button.Colored">
+         <item name="android:background">@drawable/round_button</item>
+        <item name="colorControlHighlight">@color/colorAccent</item>
+    </style>
 </resources>

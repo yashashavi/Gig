@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -21,10 +22,11 @@
         android:visibility="gone" />
 
     <ImageView
+
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:layout_gravity="start"
-        android:src="@drawable/ic_app_icon"
+        android:src="@drawable/ic_app_icon_tight"
 
         />
     <TextView
@@ -50,7 +52,7 @@
         <LinearLayout
             android:id="@+id/email_login_form"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
             android:orientation="vertical">
 
             <android.support.design.widget.TextInputLayout
@@ -81,7 +83,9 @@
                 android:layout_height="wrap_content"
                 android:textColorHint="@color/colorAccent"
                 android:backgroundTint="@color/colorAccent"
-                android:theme="@style/Theme.App.Base">
+                android:theme="@style/Theme.App.Base"
+                app:passwordToggleEnabled="true"
+                app:passwordToggleTint="@color/colorAccent">
 
                 <EditText
                     android:textColor="@color/colorAccent"
@@ -109,14 +113,18 @@
                 android:textColor="@color/colorAccent"/>
 
             <Button
+                android:clickable="true"
                 android:textColor="@color/colorAccent"
                 android:id="@+id/email_sign_in_button"
-                android:background="@drawable/round_button"
+
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:text="@string/action_sign_in"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                style="@style/Theme.Button.Dark"
+                android:foreground="@drawable/ripple_circle"
+                 />
 
             <TextView
                 android:paddingVertical="32dp"

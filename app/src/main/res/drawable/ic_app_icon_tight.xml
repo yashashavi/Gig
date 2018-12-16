@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+    <path
+        android:fillColor="#000"
+        android:name="Rectangle 1"
+        android:pathData="m89.8 0h332.3c49.6 0 89.8 40.2 89.8 89.8v332.3c0 49.6 -40.2 89.8 -89.8 89.8h-332.3c-49.6 0 -89.8 -40.2 -89.8 -89.8v-332.3c0 -49.6 40.2 -89.8 89.8 -89.8z" />
+    <path
+        android:name="Rectangle 1"
+        android:pathData="m390 122v267.9h-267.9v-267.9zm-300.1 -122c-49.6 0 -89.8 40.2 -89.8 89.8v332.3c0 49.6 40.2 89.8 89.8 89.8h332.3c49.6 0 89.8 -40.2 89.8 -89.8v-332.3c0 -49.6 -40.2 -89.8 -89.8 -89.8z"
+        android:fillColor="#000" />
+    <path
+        android:fillColor="#000"
+        android:name="Rectangle 3"
+        android:pathData="m214.4 32 214.4 214.5 -214.4 214.5 -214.4 -214.5 214.4 -214.5z" />
+    <path
+        android:name="Rectangle 3"
+        android:pathData="m214.4 53.2 193.2 193.3 -193.2 193.3 -193.2 -193.3 193.2 -193.3zm0 -21.2 -214.4 214.5 214.4 214.5 214.4 -214.5 -214.4 -214.5z"
+        android:fillColor="#fff" />
+    <path
+        android:fillColor="#000"
+        android:name="Rectangle 3"
+        android:pathData="m296.6 32 214.4 214.5 -214.4 214.5 -214.4 -214.5 214.4 -214.5z" />
+    <path
+        android:name="Rectangle 3"
+        android:pathData="m296.6 53.2 193.2 193.3 -193.2 193.3 -193.2 -193.3 193.2 -193.3zm0 -21.2 -214.4 214.5 214.4 214.5 214.4 -214.5 -214.4 -214.5z"
+        android:fillColor="#fff" />
+</vector>
