@@ -12,11 +12,19 @@
         android:pathData="m390 122v267.9h-267.9v-267.9zm-300.1 -122c-49.6 0 -89.8 40.2 -89.8 89.8v332.3c0 49.6 40.2 89.8 89.8 89.8h332.3c49.6 0 89.8 -40.2 89.8 -89.8v-332.3c0 -49.6 -40.2 -89.8 -89.8 -89.8z"
         android:fillColor="#000" />
     <path
+        android:fillColor="#000"
         android:name="Rectangle 3"
-        android:pathData="m216 69.1 186.9 186.9 -186.9 186.9 -186.9 -186.9 186.9 -186.9zm0 -14.1 -201 201 201 201 201 -201 -201 -201z"
-        android:fillColor="#fff" />
+        android:pathData="m224.9 91 164.9 165 -164.9 165 -164.9 -165 164.9 -165z" />
     <path
         android:name="Rectangle 3"
-        android:pathData="m293 69.1 186.9 186.9 -186.9 186.9 -186.9 -186.9 186.9 -186.9zm0 -14.1 -201 201 201 201 201 -201 -201 -201z"
+        android:pathData="m224.9 105.2 150.8 150.8 -150.8 150.8 -150.8 -150.8 150.8 -150.8zm0 -14.1 -164.9 165 164.9 165 164.9 -165 -164.9 -165z"
+        android:fillColor="#fff" />
+    <path
+        android:fillColor="#000"
+        android:name="Rectangle 3"
+        android:pathData="m288.1 91 164.9 165 -164.9 165 -164.9 -165 164.9 -165z" />
+    <path
+        android:name="Rectangle 3"
+        android:pathData="m288.1 105.2 150.8 150.8 -150.8 150.8 -150.8 -150.8 150.8 -150.8zm0 -14.1 -164.9 165 164.9 165 164.9 -165 -164.9 -165z"
         android:fillColor="#fff" />
 </vector>

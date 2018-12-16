@@ -15,11 +15,11 @@
         android:id="@+id/top">
         <ImageView
             android:layout_marginTop="-64dp"
-            android:layout_marginHorizontal="64dp"
+            android:layout_marginHorizontal="104dp"
             android:layout_marginBottom="-122dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/ic_app_icon_reduced"
+            android:src="@drawable/ic_app_icon"
             android:id="@+id/icon"/>
 
         <TextView
@@ -53,7 +53,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/round_button"
-            android:text="G e t   S t a r t e d"
+            android:text="L O G I N"
             android:fontFamily="@font/montserrat"
             android:paddingHorizontal="16dp"
             android:textColor="@android:color/white"
